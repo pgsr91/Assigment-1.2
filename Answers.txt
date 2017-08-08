@@ -1,0 +1,79 @@
+1. Explain the below linux commands with an example. Share the screenshot of each
+command with the output:
+
+Answers:
+
+1. pwd (Present working directory)
+
+The above command is used to know the present working directory.
+
+
+2. vi (or Visual Intractive Improved "vim")
+
+"vi" command is used to edit text files. It is a text file editor similar to notepad in windows.
+
+
+3. touch
+
+The touch command is used to create, update or modify timestamps of a file. It can also be used to create multiple empty files at once.
+
+
+4. mkdir
+
+The above command is used to create a new directory.
+
+
+5. rm
+
+"rm" command is used to remove/delete a file or directory.
+
+
+6. ls
+
+List command is used to list the contents in current or specified location.
+
+
+7. echo
+
+"echo" command is used to print any message on screen. It can also be used to store string value a variable.
+
+
+8. cat
+
+This command has multiple uses. It can be used to create and open files. The major use of cat command is concatenation. It can be used to concatenate or combine contents in two or more files. 
+
+
+9. who
+
+The "who" commad shows the details about currently logged on users in a system.
+
+
+10.cd
+
+Used to change directory. It can be used to change access to different location.
+
+
+11.date
+
+It shows the current date and time according to system.
+
+
+12.cal
+
+Above command will display dates and days in the current month as per system.
+
+
+13.mv
+
+"mv" or move command is used to move content between two directories/locations.
+
+
+14.cp
+
+Used to copy data in a file to another file. It can also be used to copy directories.
+
+
+
+15.which
+
+Used to know the location of executables in system.
